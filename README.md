@@ -1,4 +1,4 @@
-# COP27
+# COP27 and Future Sustainability. Call for posters. 11-12 June 2022
 
 Faculty of management technology is happy to invite you to submission in
 “Thesis Awards Conference, GUC-TAC”. MGT faculty launches a call of posters
