@@ -26,7 +26,7 @@ Decent Work, Welfare and social preferences
 Green Computing and Energy-efficient computing
 Environmental analytics and Energy Analytics
 Environmentally aware decision support systems
-Articial Intelligence and Data Science for sustainable development
+Artificial Intelligence and Data Science for sustainable development
 Enterprise resource planning for sustainable development
 Computing capabilities for the future
 Architecture, Design and engineering for a sustainable future
