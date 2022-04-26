@@ -34,8 +34,11 @@ Materials, structures and robotics for sustainable development
 
 
 Important Dates:
+
 20 May’22: Poster Submission Deadline
+
 5 June’22: Poster Acceptance Notification
+
 11-12 June’22: Conference Date
 
 Kindly Submit your poster through the below link:
