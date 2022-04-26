@@ -41,4 +41,4 @@ Important Dates:
 Kindly Submit your poster through the below link:
 https://forms.gle/mcXxgCYqAaV3r9Qs9
 
-you can visit the conference's website here: https://tinyurl.com/guc-tac-2022
+You can visit the conference's website here: https://tinyurl.com/guc-tac-2022
