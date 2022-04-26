@@ -15,21 +15,37 @@ will be acknowledged.
 
 Topics:
 Health and well—being
+
 ICT and sustainable development
+
 Income inequality and Poverty Alleviation
+
 Financial literacy and economic growth
+
 Renewable energy deployment
+
 Green innovation and energy transition
+
 Green Finance, Sustainable Finance & Circular economy
+
 Social and sustainable entrepreneurship
+
 Decent Work, Welfare and social preferences
+
 Green Computing and Energy-efficient computing
+
 Environmental analytics and Energy Analytics
+
 Environmentally aware decision support systems
+
 Artificial Intelligence and Data Science for sustainable development
+
 Enterprise resource planning for sustainable development
+
 Computing capabilities for the future
+
 Architecture, Design and engineering for a sustainable future
+
 Materials, structures and robotics for sustainable development
 
 
