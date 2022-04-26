@@ -1,4 +1,4 @@
-# COP27 and Future Sustainability. Call for posters. 11-12 June 2022
+# Thesis Poster Display Conference: COP27 & Future Sustainability 
 
 Faculty of management technology is happy to invite you to submission in
 “Thesis Awards Conference, GUC-TAC”. MGT faculty launches a call of posters
@@ -10,7 +10,7 @@ Theme of the conference “COP27 and Future Sustainability”.
 The theme of this conference is part of the GUC’s commitment to spreading
 awareness among students about the major steps taken domestically and
 internationally to achieve sustainability.
-Participants will receive a certicate of participation and The Best Five Posters
+Participants will receive a certificate of participation and The Best Five Posters
 will be acknowledged.
 
 Topics:
@@ -20,10 +20,10 @@ Income inequality and Poverty Alleviation
 Financial literacy and economic growth
 Renewable energy deployment
 Green innovation and energy transition
-Green Finance, Sustainable nance & Circular economy
+Green Finance, Sustainable Finance & Circular economy
 Social and sustainable entrepreneurship
 Decent Work, Welfare and social preferences
-Green Computing and Energy-ecient computing
+Green Computing and Energy-efficient computing
 Environmental analytics and Energy Analytics
 Environmentally aware decision support systems
 Articial Intelligence and Data Science for sustainable development
